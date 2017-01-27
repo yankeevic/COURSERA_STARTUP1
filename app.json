@@ -1,0 +1,19 @@
+{
+  "name": "COURSERA_STARTUP1",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "PATH": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
